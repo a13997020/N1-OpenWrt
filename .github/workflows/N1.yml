@@ -11,7 +11,7 @@ on:
     - cron: "0 0 1,16 * *"
 
 env:
-  REPO_URL: https://github.com/immortalwrt/immortalwrt
+  REPO_URL: https://github.com/a13997020/N1-OpenWrt
   REPO_BRANCH: openwrt-21.02
   FEEDS_CONF: config/feeds.conf.default
   CONFIG_FILE: config/N1.config
